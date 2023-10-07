@@ -11,7 +11,7 @@ do estoque mínimo permitido.*/
 #include <stdio.h>
 #include <string.h>
 #include <locale.h>
-#define TAMANHO 3
+#define TAMANHO 40
 
 typedef struct{
     int codigo;
